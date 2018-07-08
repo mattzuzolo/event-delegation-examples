@@ -21,7 +21,7 @@ document.getElementById("parent-div").addEventListener("click", function(e){
   if (e.target && e.target.matches("a.classA")){
     //no access to anchor element here. This merely checks if something was present or not.
     //Should I be able to access the anchor in within this if statement?
-    console.log(`You clicked ${a.taget}`)
+    console.log("Anchor element clicked!")
   }
   
 })
