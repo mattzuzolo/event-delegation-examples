@@ -7,8 +7,8 @@
 
 document.getElementById('parent-list').addEventListener("click", function(e){
 
+  //note: must use caps for "LI"
   if (e.target && e.target.nodeName === "LI"){
-    debugger;
     console.log(`User clicked on ${e.target.innerText}`)
   }
   
