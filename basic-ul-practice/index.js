@@ -1,6 +1,7 @@
-//Useful links: https://developer.mozilla.org/en-US/docs/Web/API/Element/matches
-//https://www.youtube.com/watch?v=mXTEVCg60zM&t=212s
+//Useful links: 
 //https://davidwalsh.name/event-delegate
+//https://www.youtube.com/watch?v=mXTEVCg60zM&t=212s
+//https://developer.mozilla.org/en-US/docs/Web/API/Element/matches
 //https://developer.mozilla.org/en-US/docs/Web/API/Event/target
 //https://developer.mozilla.org/en-US/docs/Web/API/Event/currentTarget
 //https://developer.mozilla.org/en-US/docs/Web/API/Event/Comparison_of_Event_Targets
