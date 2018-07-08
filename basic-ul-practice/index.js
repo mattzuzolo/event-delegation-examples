@@ -1,5 +1,3 @@
-console.log("Javascript is connected.")
-
 //Useful links: https://developer.mozilla.org/en-US/docs/Web/API/Element/matches
 //https://www.youtube.com/watch?v=mXTEVCg60zM&t=212s
 //https://davidwalsh.name/event-delegate
@@ -13,6 +11,7 @@ document.getElementById('parent-list').addEventListener("click", function(e){
     debugger;
     console.log(`User clicked on ${e.target.innerText}`)
   }
+  
 })
 
 //Element.matches can be used if the element you need more vagueness in your match
@@ -24,4 +23,5 @@ document.getElementById("parent-div").addEventListener("click", function(e){
     //Should I be able to access the anchor in within this if statement?
     console.log(`You clicked ${a.taget}`)
   }
+  
 })
